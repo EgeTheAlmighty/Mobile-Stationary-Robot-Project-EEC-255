@@ -1,0 +1,1 @@
+This folder includes the STL and Solidworks files used for the robot arm
